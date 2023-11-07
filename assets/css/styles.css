@@ -78,7 +78,9 @@ a {
   border-radius: 1rem;
   text-align: center;
   position: relative;
+  height: 250px;
   z-index: 15;
+  border: 1px red solid;
 }
 
 .card__img {
@@ -188,7 +190,7 @@ footer {
 
 .mackenzie {
   display: flex;
-  padding: 15px 0 15px 15px;
+  padding: 5px 0 15px 5px;
 }
 
 .contatoFooter {
