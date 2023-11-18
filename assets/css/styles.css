@@ -80,7 +80,6 @@ a {
   position: relative;
   height: 250px;
   z-index: 15;
-  border: 1px red solid;
 }
 
 .card__img {
